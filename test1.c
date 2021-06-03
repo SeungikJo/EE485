@@ -3,6 +3,6 @@
 int main()
 {   
     printf("hi,world!\n");
-    printf("hidddd,world!\n");
+    printf("hidddd,wor!\n");
     return 0;
 }
